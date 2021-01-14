@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.header-part{
+	padding:120px 0;
+	background-image:url("img\banner.jpg") no-repeat;
+	
+}
+.active-page{
+	border: 1px solid #fff;
+	}
+
+.nav-pills .nav-link {
+    border-radius: 22.25rem;
+}
