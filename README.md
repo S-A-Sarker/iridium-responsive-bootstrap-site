@@ -2,3 +2,5 @@
 responsive by using bootstrap
 not fully complete website
 a
+b
+c
